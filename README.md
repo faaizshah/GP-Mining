@@ -1,2 +1,2 @@
 # GP-Mining
-GP from PG
+Gradual Patterns mining from Property Graphs
